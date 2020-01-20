@@ -1,5 +1,5 @@
 # Multi-threading
-* Using Linux OS syscalls to create multi-threading application.
+* Using Linux OS to create multi-threading application.
 * Each thread aimed to do different work:
   * 9 threads used to check the rows
   * 9 threads used to check the coloums
