@@ -4,5 +4,6 @@
   * Check the rows
   * Check the coloums
   * Check the inside-matrix.
-* IPC is used by pipes.
+* IPC is done by pipes.
+* Multi-processing is done by exec syscall.
 * Have fun!
